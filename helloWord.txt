@@ -1,3 +1,51 @@
 test
 test git alias and checkout 
 hello world!
+* [31m27c4f17[m -[33m (HEAD -> dev20220715, githubNettyProxy/dev20220715)[m second [32m(12 minutes ago) [1;34m<徐智强>[m
+* [31md9d4139[m -[33m[m test checkout [32m(15 minutes ago) [1;34m<unknown>[m
+* [31m382e5ea[m -[33m (githubNettyProxy/master, githubNettyProxy/HEAD, master)[m test git [32m(24 minutes ago) [1;34m<unknown>[m
+* [31mddf28ac[m -[33m[m Update README.md [32m(5 months ago) [1;34m<KcangYan>[m
+* [31m190ccb7[m -[33m[m Update README.md [32m(5 months ago) [1;34m<KcangYan>[m
+* [31m9f15fa3[m -[33m[m Update README.md [32m(5 months ago) [1;34m<KcangYan>[m
+* [31m7c40a0b[m -[33m (tag: 1.0)[m add Apache License [32m(5 months ago) [1;34m<KcangYan>[m
+* [31mabd351a[m -[33m[m 增加说明文档 [32m(5 months ago) [1;34m<叶泽奇>[m
+* [31m328fc3c[m -[33m[m 增加说明文档 [32m(5 months ago) [1;34m<叶泽奇>[m
+* [31m4547f82[m -[33m[m 增加说明文档 [32m(5 months ago) [1;34m<叶泽奇>[m
+* [31mf8e3e57[m -[33m[m 优化部分日志显示 [32m(5 months ago) [1;34m<叶泽奇>[m
+* [31mdbf06e9[m -[33m[m 优化client，在获取空消息时不发起转发请求 [32m(5 months ago) [1;34m<叶泽奇>[m
+* [31m370382d[m -[33m[m 解决linux下netty的Http解码器返回头String里分隔符不是\r\n的问题 [32m(5 months ago) [1;34m<叶泽奇>[m
+* [31ma6a4a75[m -[33m[m 正在排查服务端请求头解析异常问题 [32m(5 months ago) [1;34m<叶泽奇>[m
+* [31mfccd5fe[m -[33m[m 修复路由中存在客户端名称导致的路由转发异常 [32m(5 months ago) [1;34m<叶泽奇>[m
+* [31mb015bba[m -[33m[m 修复单客户端模式时多个客户端连接不退出的bug [32m(5 months ago) [1;34m<kcang>[m
+* [31m4cfe12e[m -[33m[m 初步完成 等待debug [32m(5 months ago) [1;34m<kcang>[m
+* [31m8732685[m -[33m[m 基本完成http多客户端的功能 [32m(6 months ago) [1;34m<kcang>[m
+* [31ma2dbade[m -[33m[m 完成客户端心跳以及消息协议编码器实现 [32m(6 months ago) [1;34m<kcang>[m
+* [31m6c25ed4[m -[33m[m 修改解码器bug 并变更消息协议 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31mfd0bf1c[m -[33m[m 基本完成服务端编写 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31m4cc83ab[m -[33m[m 静态类代替部分要通用的实体类 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31me12bb9f[m -[33m[m 用静态类代替原来麻烦的普通类实例化导入通用 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31mcc01179[m -[33m[m 懒得写2 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31me588205[m -[33m[m 懒得写 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31ma6f9c4f[m -[33m[m 建立转发客户端观察者架构 [32m(6 months ago) [1;34m<kcang>[m
+* [31md930770[m -[33m[m 修改架构 [32m(6 months ago) [1;34m<kcang>[m
+* [31m8949646[m -[33m[m 测试功能函数 [32m(6 months ago) [1;34m<kcang>[m
+* [31m2ded940[m -[33m[m 改下名字 [32m(6 months ago) [1;34m<kcang>[m
+* [31mce60df6[m -[33m[m 改下名字 [32m(6 months ago) [1;34m<kcang>[m
+* [31m50c4628[m -[33m[m 改个名字 [32m(6 months ago) [1;34m<kcang>[m
+* [31m9cceab3[m -[33m[m 测试客户端 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31m0d36d34[m -[33m[m 增加服务端日志 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31m6c67c16[m -[33m[m 客户端架构搭建 [32m(6 months ago) [1;34m<kcang>[m
+* [31m0faa19b[m -[33m[m 更改model类的加载方式 [32m(6 months ago) [1;34m<kcang>[m
+* [31m44c32ce[m -[33m[m 改了一下名字 [32m(6 months ago) [1;34m<kcang>[m
+* [31mbbf69e5[m -[33m[m 改了一下名字 [32m(6 months ago) [1;34m<kcang>[m
+* [31m04f35a8[m -[33m[m 架构搭建 [32m(6 months ago) [1;34m<kcang>[m
+* [31m59a18c5[m -[33m[m 改了一下变量名字 [32m(6 months ago) [1;34m<kcang>[m
+* [31m5e8acf5[m -[33m[m 初步完成启动架构 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31mc0a45ba[m -[33m[m 完成logback日志设置 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31me22d702[m -[33m[m 完成logback日志设置 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31md4f6658[m -[33m[m 尝试解码器测试 [32m(6 months ago) [1;34m<kcang>[m
+* [31mcab43bd[m -[33m[m 修改类名，增加handler类 [32m(6 months ago) [1;34m<xiezq10@chinaunicom.cn>[m
+* [31mbe8ed47[m -[33m[m 项目初建 [32m(6 months ago) [1;34m<kcang>[m
+* [31mbc882f0[m -[33m[m 项目初建 [32m(6 months ago) [1;34m<kcang>[m
+* [31m1e7b38b[m -[33m[m 项目初建 [32m(6 months ago) [1;34m<kcang>[m
+* [31mc2fdb3e[m -[33m[m first commit [32m(6 months ago) [1;34m<kcang>[m
